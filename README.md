@@ -5,3 +5,6 @@
 ### Text attributes
 ### Lists
 ### Links and images
+
+## Implementations
+Implementations of Markdown are available for over a dozen programming languages; in addition, many platforms and frameworks support Markdown. For example, Markdown plugins exist for every major blogging platform.
